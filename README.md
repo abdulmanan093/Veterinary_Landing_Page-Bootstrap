@@ -1,7 +1,7 @@
 # Veterinary-landing-page
 
-veterinary landing page using bootstrap-5
-![image](D:\Projects\Bootstrap\Project2\veterinary-landing-pages-concept.jpg\design-landing.png)
+veterinary landing page using bootstrap-5\
+![image](veterinary-landing-pages-concept.jpg/design-landing.png)
 
 ## Features:
 
